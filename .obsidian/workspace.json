@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zimbra/instaler-build.md",
+                "file": "markdown-cheat-sheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "instaler-build"
+              "title": "markdown-cheat-sheet"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zimbra/instaler-build.md",
+                "file": "markdown-cheat-sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for instaler-build"
+              "title": "Backlinks for markdown-cheat-sheet"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zimbra/instaler-build.md",
+                "file": "markdown-cheat-sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from instaler-build"
+              "title": "Outgoing links from markdown-cheat-sheet"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zimbra/instaler-build.md"
+                "file": "markdown-cheat-sheet.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of instaler-build"
+              "title": "Outline of markdown-cheat-sheet"
             }
           }
         ]
@@ -164,8 +164,9 @@
   },
   "active": "ed9c845cf7e4d597",
   "lastOpenFiles": [
-    "Zimbra/instaler-build.md",
     "README.md",
+    "markdown-cheat-sheet.md",
+    "Zimbra/instaler-build.md",
     "Zimbra"
   ]
 }
