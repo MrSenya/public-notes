@@ -10,12 +10,28 @@
           {
             "id": "ed9c845cf7e4d597",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "c6dd763a6f1de3aa",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "markdown-cheat-sheet.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "markdown-cheat-sheet"
@@ -93,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "markdown-cheat-sheet.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for markdown-cheat-sheet"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -112,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "markdown-cheat-sheet.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from markdown-cheat-sheet"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -139,10 +155,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "markdown-cheat-sheet.md"
+                "file": "README.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of markdown-cheat-sheet"
+              "title": "Outline of README"
             }
           }
         ]
@@ -164,8 +180,8 @@
   },
   "active": "ed9c845cf7e4d597",
   "lastOpenFiles": [
-    "README.md",
     "markdown-cheat-sheet.md",
+    "README.md",
     "Zimbra/instaler-build.md",
     "Zimbra"
   ]
